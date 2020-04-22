@@ -1,0 +1,304 @@
+2020-04-22 at 11:28:24 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @271 :-> Root WebApplicationContext: initialization started
+2020-04-22 at 11:28:25 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @307 :-> Root WebApplicationContext initialized in 937 ms
+2020-04-22 at 11:28:25 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @525 :-> Initializing Servlet 'springMVC'
+2020-04-22 at 11:28:29 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @547 :-> Completed initialization in 3371 ms
+2020-04-22 at 11:28:31 CST INFO  aspects.WebAspect.beforeProcess @31 :-> 
+该操作所在类example.controller.TeaOpeController
+该操作所在方法teaOpe
+该操作中的参数null
+该操作开始了
+
+2020-04-22 at 11:28:31 CST INFO  aspects.WebAspect.afterProcess @47 :-> 
+该操作所在类example.controller.TeaOpeController
+该操作所在方法teaOpe
+该操作中的参数null
+该操作结束了
+
+2020-04-22 at 11:29:30 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @271 :-> Root WebApplicationContext: initialization started
+2020-04-22 at 11:29:32 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @307 :-> Root WebApplicationContext initialized in 1010 ms
+2020-04-22 at 11:29:32 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @525 :-> Initializing Servlet 'springMVC'
+2020-04-22 at 11:29:36 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @547 :-> Completed initialization in 3653 ms
+2020-04-22 at 11:29:38 CST INFO  aspects.WebAspect.beforeProcess @31 :-> 
+该操作所在类example.controller.TeaOpeController
+该操作所在方法teaOpe
+该操作中的参数null
+该操作开始了
+
+2020-04-22 at 11:29:38 CST INFO  aspects.WebAspect.afterProcess @47 :-> 
+该操作所在类example.controller.TeaOpeController
+该操作所在方法teaOpe
+该操作中的参数null
+该操作结束了
+
+2020-04-22 at 11:30:23 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @271 :-> Root WebApplicationContext: initialization started
+2020-04-22 at 11:30:25 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @307 :-> Root WebApplicationContext initialized in 1851 ms
+2020-04-22 at 11:30:25 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @525 :-> Initializing Servlet 'springMVC'
+2020-04-22 at 11:30:28 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @547 :-> Completed initialization in 2583 ms
+2020-04-22 at 11:30:30 CST INFO  aspects.WebAspect.beforeProcess @31 :-> 
+该操作所在类example.controller.TeaOpeController
+该操作所在方法teaOpe
+该操作中的参数null
+该操作开始了
+
+2020-04-22 at 11:30:30 CST INFO  aspects.WebAspect.afterProcess @47 :-> 
+该操作所在类example.controller.TeaOpeController
+该操作所在方法teaOpe
+该操作中的参数null
+该操作结束了
+
+2020-04-22 at 11:31:30 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @271 :-> Root WebApplicationContext: initialization started
+2020-04-22 at 11:31:31 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @307 :-> Root WebApplicationContext initialized in 948 ms
+2020-04-22 at 11:31:32 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @525 :-> Initializing Servlet 'springMVC'
+2020-04-22 at 11:31:35 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @547 :-> Completed initialization in 3680 ms
+2020-04-22 at 11:31:38 CST INFO  aspects.WebAspect.beforeProcess @31 :-> 
+该操作所在类example.controller.TeaOpeController
+该操作所在方法teaOpe
+该操作中的参数null
+该操作开始了
+
+2020-04-22 at 11:31:38 CST INFO  aspects.WebAspect.afterProcess @47 :-> 
+该操作所在类example.controller.TeaOpeController
+该操作所在方法teaOpe
+该操作中的参数null
+该操作结束了
+
+2020-04-22 at 11:36:23 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @271 :-> Root WebApplicationContext: initialization started
+2020-04-22 at 11:36:24 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @307 :-> Root WebApplicationContext initialized in 958 ms
+2020-04-22 at 11:36:25 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @525 :-> Initializing Servlet 'springMVC'
+2020-04-22 at 11:36:29 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @547 :-> Completed initialization in 3733 ms
+2020-04-22 at 11:36:31 CST INFO  aspects.WebAspect.beforeProcess @31 :-> 
+该操作所在类example.controller.TeaOpeController
+该操作所在方法teaOpe
+该操作中的参数null
+该操作开始了
+
+2020-04-22 at 11:36:31 CST INFO  aspects.WebAspect.afterProcess @47 :-> 
+该操作所在类example.controller.TeaOpeController
+该操作所在方法teaOpe
+该操作中的参数null
+该操作结束了
+
+2020-04-22 at 11:38:42 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @271 :-> Root WebApplicationContext: initialization started
+2020-04-22 at 11:38:43 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @307 :-> Root WebApplicationContext initialized in 1015 ms
+2020-04-22 at 11:38:44 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @525 :-> Initializing Servlet 'springMVC'
+2020-04-22 at 11:38:48 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @547 :-> Completed initialization in 3695 ms
+2020-04-22 at 11:38:50 CST INFO  aspects.WebAspect.beforeProcess @31 :-> 
+该操作所在类example.controller.TeaOpeController
+该操作所在方法teaOpe
+该操作中的参数null
+该操作开始了
+
+2020-04-22 at 11:38:50 CST INFO  aspects.WebAspect.afterProcess @47 :-> 
+该操作所在类example.controller.TeaOpeController
+该操作所在方法teaOpe
+该操作中的参数null
+该操作结束了
+
+2020-04-22 at 20:16:05 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @271 :-> Root WebApplicationContext: initialization started
+2020-04-22 at 20:16:06 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @307 :-> Root WebApplicationContext initialized in 1074 ms
+2020-04-22 at 20:16:06 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @525 :-> Initializing Servlet 'springMVC'
+2020-04-22 at 20:16:10 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @547 :-> Completed initialization in 3875 ms
+2020-04-22 at 20:17:31 CST INFO  aspects.WebAspect.beforeProcess @31 :-> 
+该操作所在类example.controller.TeaOpeController
+该操作所在方法teaOpe
+该操作中的参数null
+该操作开始了
+
+2020-04-22 at 20:17:31 CST INFO  aspects.WebAspect.afterProcess @47 :-> 
+该操作所在类example.controller.TeaOpeController
+该操作所在方法teaOpe
+该操作中的参数null
+该操作结束了
+
+2020-04-22 at 20:17:32 CST INFO  aspects.WebAspect.beforeProcess @31 :-> 
+该操作所在类example.controller.TeaOpeController
+该操作所在方法allhomework
+该操作中的参数nullorg.apache.catalina.connector.RequestFacade@7cf4845aorg.apache.catalina.connector.ResponseFacade@312317ab
+该操作开始了
+
+2020-04-22 at 20:17:32 CST INFO  aspects.StudentHomeworkAspect.beforeStudenthomewrk @29 :-> 
+该操作所在类services.StudentHomeworkService
+该操作所在方法getAllSH
+该操作中的参数null
+该操作开始了
+
+2020-04-22 at 20:17:32 CST INFO  aspects.StudentHomeworkAspect.afterStudenthomewrk @43 :-> 
+该操作所在类services.StudentHomeworkService
+该操作所在方法getAllSH
+该操作中的参数null
+该操作开始了
+
+2020-04-22 at 20:17:32 CST INFO  aspects.WebAspect.afterProcess @47 :-> 
+该操作所在类example.controller.TeaOpeController
+该操作所在方法allhomework
+该操作中的参数nullorg.apache.catalina.connector.RequestFacade@7cf4845aorg.apache.catalina.connector.ResponseFacade@312317ab
+该操作结束了
+
+2020-04-22 at 20:17:34 CST INFO  aspects.WebAspect.beforeProcess @31 :-> 
+该操作所在类example.controller.TeaOpeController
+该操作所在方法SearchByCond
+该操作中的参数null
+该操作开始了
+
+2020-04-22 at 20:17:34 CST INFO  aspects.WebAspect.afterProcess @47 :-> 
+该操作所在类example.controller.TeaOpeController
+该操作所在方法SearchByCond
+该操作中的参数null
+该操作结束了
+
+2020-04-22 at 20:17:36 CST INFO  aspects.WebAspect.beforeProcess @31 :-> 
+该操作所在类example.controller.TeaOpeController
+该操作所在方法aftersearch
+该操作中的参数nullorg.apache.catalina.connector.RequestFacade@7cf4845aorg.apache.catalina.connector.ResponseFacade@312317ab
+该操作开始了
+
+2020-04-22 at 20:17:36 CST INFO  aspects.StudentHomeworkAspect.beforeStudenthomewrk @29 :-> 
+该操作所在类services.StudentHomeworkService
+该操作所在方法selectbystu
+该操作中的参数null1
+该操作开始了
+
+2020-04-22 at 20:17:36 CST INFO  aspects.StudentHomeworkAspect.afterStudenthomewrk @43 :-> 
+该操作所在类services.StudentHomeworkService
+该操作所在方法selectbystu
+该操作中的参数null1
+该操作开始了
+
+2020-04-22 at 20:17:36 CST INFO  aspects.WebAspect.afterProcess @47 :-> 
+该操作所在类example.controller.TeaOpeController
+该操作所在方法aftersearch
+该操作中的参数nullorg.apache.catalina.connector.RequestFacade@7cf4845aorg.apache.catalina.connector.ResponseFacade@312317ab
+该操作结束了
+
+2020-04-22 at 20:17:40 CST INFO  aspects.WebAspect.beforeProcess @31 :-> 
+该操作所在类example.controller.StuOpeController
+该操作所在方法stuLogin
+该操作中的参数null
+该操作开始了
+
+2020-04-22 at 20:17:40 CST INFO  aspects.WebAspect.afterProcess @47 :-> 
+该操作所在类example.controller.StuOpeController
+该操作所在方法stuLogin
+该操作中的参数null
+该操作结束了
+
+2020-04-22 at 20:17:42 CST INFO  aspects.WebAspect.beforeProcess @31 :-> 
+该操作所在类example.controller.StuOpeController
+该操作所在方法stuOpe
+该操作中的参数null
+该操作开始了
+
+2020-04-22 at 20:17:42 CST INFO  aspects.WebAspect.afterProcess @47 :-> 
+该操作所在类example.controller.StuOpeController
+该操作所在方法stuOpe
+该操作中的参数null
+该操作结束了
+
+2020-04-22 at 20:17:42 CST INFO  aspects.WebAspect.beforeProcess @31 :-> 
+该操作所在类example.controller.StuOpeController
+该操作所在方法myhomework
+该操作中的参数nullorg.apache.catalina.connector.RequestFacade@7cf4845aorg.apache.catalina.connector.ResponseFacade@312317ab
+该操作开始了
+
+2020-04-22 at 20:17:42 CST INFO  aspects.StudentHomeworkAspect.beforeStudenthomewrk @29 :-> 
+该操作所在类services.StudentHomeworkService
+该操作所在方法getMySH
+该操作中的参数null1
+该操作开始了
+
+2020-04-22 at 20:17:42 CST INFO  aspects.StudentHomeworkAspect.afterStudenthomewrk @43 :-> 
+该操作所在类services.StudentHomeworkService
+该操作所在方法getMySH
+该操作中的参数null1
+该操作开始了
+
+2020-04-22 at 20:17:42 CST INFO  aspects.WebAspect.afterProcess @47 :-> 
+该操作所在类example.controller.StuOpeController
+该操作所在方法myhomework
+该操作中的参数nullorg.apache.catalina.connector.RequestFacade@7cf4845aorg.apache.catalina.connector.ResponseFacade@312317ab
+该操作结束了
+
+2020-04-22 at 20:17:44 CST INFO  aspects.WebAspect.beforeProcess @31 :-> 
+该操作所在类example.controller.StuOpeController
+该操作所在方法needhomw
+该操作中的参数nullorg.apache.catalina.connector.RequestFacade@7cf4845aorg.apache.catalina.connector.ResponseFacade@312317ab
+该操作开始了
+
+2020-04-22 at 20:17:44 CST INFO  aspects.NeedHomeworkAspect.beforeNeedhomewrk @29 :-> 
+该操作所在类services.NeedHomeworkService
+该操作所在方法getAllNeed
+该操作中的参数null
+该操作开始了
+
+2020-04-22 at 20:17:44 CST INFO  aspects.NeedHomeworkAspect.afterNeedhomewrk @43 :-> 
+该操作所在类services.NeedHomeworkService
+该操作所在方法getAllNeed
+该操作中的参数null
+该操作开始了
+
+2020-04-22 at 20:17:44 CST INFO  aspects.WebAspect.afterProcess @47 :-> 
+该操作所在类example.controller.StuOpeController
+该操作所在方法needhomw
+该操作中的参数nullorg.apache.catalina.connector.RequestFacade@7cf4845aorg.apache.catalina.connector.ResponseFacade@312317ab
+该操作结束了
+
+2020-04-22 at 20:17:48 CST INFO  aspects.WebAspect.beforeProcess @31 :-> 
+该操作所在类example.controller.StuOpeController
+该操作所在方法submithome
+该操作中的参数null
+该操作开始了
+
+2020-04-22 at 20:17:48 CST INFO  aspects.WebAspect.afterProcess @47 :-> 
+该操作所在类example.controller.StuOpeController
+该操作所在方法submithome
+该操作中的参数null
+该操作结束了
+
+2020-04-22 at 20:17:54 CST INFO  aspects.WebAspect.beforeProcess @31 :-> 
+该操作所在类example.controller.StuOpeController
+该操作所在方法aftersubmithome
+该操作中的参数nullorg.apache.catalina.connector.RequestFacade@7cf4845aorg.apache.catalina.connector.ResponseFacade@312317ab
+该操作开始了
+
+2020-04-22 at 20:17:54 CST INFO  aspects.StudentHomeworkAspect.beforeStudenthomewrk @29 :-> 
+该操作所在类services.StudentHomeworkService
+该操作所在方法getAllSH
+该操作中的参数null
+该操作开始了
+
+2020-04-22 at 20:17:54 CST INFO  aspects.StudentHomeworkAspect.afterStudenthomewrk @43 :-> 
+该操作所在类services.StudentHomeworkService
+该操作所在方法getAllSH
+该操作中的参数null
+该操作开始了
+
+2020-04-22 at 20:17:54 CST INFO  aspects.StudentHomeworkAspect.beforeStudenthomewrk @29 :-> 
+该操作所在类services.StudentHomeworkService
+该操作所在方法addStudentHomework
+该操作中的参数nullStudentHomework(id=21, studentId=1, homeworkId=45123, homeworkTitle=干撒大哥, homeworkContent=戈萨的戈萨的, createTime=2020-04-22 20:17:54.549, updateTime=2020-04-22 20:17:54.549)
+该操作开始了
+
+2020-04-22 at 20:17:54 CST INFO  aspects.StudentHomeworkAspect.afterStudenthomewrk @43 :-> 
+该操作所在类services.StudentHomeworkService
+该操作所在方法addStudentHomework
+该操作中的参数nullStudentHomework(id=21, studentId=1, homeworkId=45123, homeworkTitle=干撒大哥, homeworkContent=戈萨的戈萨的, createTime=2020-04-22 20:17:54.549, updateTime=2020-04-22 20:17:54.549)
+该操作开始了
+
+2020-04-22 at 20:17:54 CST INFO  aspects.StudentHomeworkAspect.beforeStudenthomewrk @29 :-> 
+该操作所在类services.StudentHomeworkService
+该操作所在方法getMySH
+该操作中的参数null1
+该操作开始了
+
+2020-04-22 at 20:17:54 CST INFO  aspects.StudentHomeworkAspect.afterStudenthomewrk @43 :-> 
+该操作所在类services.StudentHomeworkService
+该操作所在方法getMySH
+该操作中的参数null1
+该操作开始了
+
+2020-04-22 at 20:17:54 CST INFO  aspects.WebAspect.afterProcess @47 :-> 
+该操作所在类example.controller.StuOpeController
+该操作所在方法aftersubmithome
+该操作中的参数nullorg.apache.catalina.connector.RequestFacade@7cf4845aorg.apache.catalina.connector.ResponseFacade@312317ab
+该操作结束了
+
